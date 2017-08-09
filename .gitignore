@@ -1,0 +1,3 @@
+node_modules
+vendor/tmp
+*.DS_Store

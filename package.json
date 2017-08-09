@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-lambda-binary",
+  "version": "0.0.1",
+  "description": "ffmpeg precompiled binary for AWS Lambda with a Node.js wrapper",
+  "main": "ffmpeg.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdziuban/ffmpeg-lambda-binary.git"
+  },
+  "author": "Matt Dziuban <mrdziuban@gmail.com>",
+  "license": "UNLICENSED"
+}
